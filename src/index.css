@@ -17,3 +17,8 @@ code {
   margin: 0 auto;
   max-width: 800px;
 }
+
+.greeting {
+  font-size:100%;
+  font-weight:190;
+}
